@@ -2,7 +2,8 @@
 <div align="left"> 
 I'm a computer science graduated who is passionate about writing code, solving problems and automating stuff. 
   Currently working at Cisco as a Data Engineer/Analyst
-  <h3> Stack </h3>
+  <h3> Stack ⚙️ </h3>
+  
   - Snowflake
   
   - GCP
