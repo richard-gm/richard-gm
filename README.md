@@ -4,7 +4,9 @@ I'm a computer science graduated who is passionate about writing code, solving p
   Currently working at Cisco as a Data Engineer/Analyst
   <h3> Stack </h3>
   - Snowflake
+  
   - GCP
+  
   - Python
 
 <h3> 👨🏻‍💻 About Me </h3>
