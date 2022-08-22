@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="left"> 
-I'm a computer science graduated who is passionate about writing code, solving problems and automating stuff.
+Data Enginner passionate about writing code, solving problems and automating stuff.
 
 Currently working at **Cisco** as a **Data Engineer/Analyst**.
   
@@ -11,14 +11,16 @@ Currently working at **Cisco** as a **Data Engineer/Analyst**.
   - GCP
   
   - Python
+  
+  - dbt
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💻  I’m currently working on **AWS Solutions Architect Certificate**
+- 💻  I’m currently working on **GCP Data Enginner Certificate**
 
-- 📖  I’m currently learning **TypeScript**
+- 📖  I’m currently learning **Dagster/Apache Airglow**
 
-- 🤝  I’m looking to collaborate on **Node.js and Django projects**
+- 🤝  I’m looking to collaborate on **Open source / data engineer projects**
 
 - 📫  How to reach me: ... [Linkedin](https://www.linkedin.com/in/richard-guaman/)
 </div>
