@@ -6,19 +6,19 @@ Currently working at **Cisco** as a **Data Engineer/Analyst**.
   
   <h3> Main Stack ⚙️ </h3>
   
-  - Snowflake
+  - Snowflake, SQL
   
-  - GCP
+  - AWS
   
   - Python
   
-  - dbt
+  - IaC (Terraform, ansible, salt)
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💻  I’m currently working on **GCP Data Enginner Certificate**
+- 💻  I’m currently working on **AWS Solutions Architect Certificate**
 
-- 📖  I’m currently learning **Dagster/Apache Airglow**
+- 📖  I’m currently learning **Data Pipelines in AWS/dbt/datalakes**
 
 - 🤝  I’m looking to collaborate on **Open source / data engineer projects**
 
