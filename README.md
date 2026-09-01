@@ -1,26 +1,28 @@
-### Hi there 👋
-<div align="left"> 
-Data Enginner passionate about writing code, solving problems and automating stuff.
+### Hi, I'm Richard 👋
 
-Currently working at **Cisco** as a **Data Engineer/Analyst**.
-  
-  <h3> Main Stack ⚙️ </h3>
-  
-  - Snowflake, SQL
-  
-  - AWS
-  
-  - Python
-  
-  - IaC (Terraform, ansible, salt)
+Platform and DevOps Engineer based in London. I work on cloud infrastructure, internal developer platforms, CI/CD, and observability.
 
-<h3> 👨🏻‍💻 About Me </h3>
+Most of what I do sits between developers and the systems they ship to. Building the pipelines, tooling, and monitoring that let teams deploy safely and find out quickly when something breaks. I care about infrastructure being reproducible, systems being observable, and cloud spend staying sane.
 
-- 💻  I’m currently working on **AWS Solutions Architect Certificate**
+I started out in data engineering, working with warehouses, ingestion pipelines, and transformation tooling. That background still shapes how I think about platform work.
 
-- 📖  I’m currently learning **Data Pipelines in AWS/dbt/datalakes**
+### Stack ⚙️
 
-- 🤝  I’m looking to collaborate on **Open source / data engineer projects**
+| | |
+|---|---|
+| **Cloud** | AWS, GCP | FinOps
+| **IaC** | Terraform, Ansible, Salt |
+| **CI/CD** | GitHub Actions |
+| **Observability** | Grafana, Prometheus, Loki, Tempo, Mimir, OpenTelemetry |
+| **Containers** | Docker, Kubernetes, OpenShift |
+| **Data** | Snowflake, dbt, Python, SQL |
 
-- 📫  How to reach me: ... [Linkedin](https://www.linkedin.com/in/richard-guaman/)
-</div>
+### Currently 👨🏻‍💻
+
+- 🔨 Building side projects on AWS, provisioned end to end in Terraform
+- 🧪 Going deeper on **Kubernetes and Argo CD**
+- 🤝 Open to collaborating on platform engineering and observability projects
+
+### Reach me 📫
+
+[LinkedIn](https://www.linkedin.com/in/richard-guaman/)
